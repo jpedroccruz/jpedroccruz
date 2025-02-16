@@ -11,7 +11,6 @@
 <br>
 
 <div align=center>
-  <a href="https://github.com/jpedroccruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedroccruz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroccruz&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
@@ -32,10 +31,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/jpedroccruz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://open.spotify.com/user/hol5mqsslm07923fyn58qtdgr?si=e47d8ff946fe4270">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jpedroccruz/" target="_blank"><img  align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  •
+  <a href="https://open.spotify.com/user/hol5mqsslm07923fyn58qtdgr?si=e47d8ff946fe4270" target="_blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </div>

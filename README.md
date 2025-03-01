@@ -1,8 +1,6 @@
 # Hi there! I'm João Pedro 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=21&pause=1000&color=9745F5&width=435&lines=Turning+ideas+into+code+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%95" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=21&pause=1000&color=9745F5&width=435&lines=Turning+ideas+into+code+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%95" alt="Typing SVG" />
 
 * 🚀 I'm focusing on improving my skills on Web Development
 * 🧑🏻‍💻 I'm currently studying Web APIs with ExpressJs

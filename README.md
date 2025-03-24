@@ -4,7 +4,7 @@
 
 * 🚀 I'm focusing on improving my skills on Web Development
 * 🧑🏻‍💻 I'm currently studying Web APIs with ExpressJs
-* 🎮 When I’m not coding, I enjoy playing guitar and playing games
+* 🎮 When I’m not coding, I enjoy playing guitar, playing games and studying about Linux world
 
 <br>
 

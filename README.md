@@ -32,4 +32,6 @@
   <a href="https://www.linkedin.com/in/jpedroccruz/" target="_blank"><img  align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   •
   <a href="https://open.spotify.com/user/hol5mqsslm07923fyn58qtdgr?si=e47d8ff946fe4270" target="_blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  •
+  <a href="https://mailto:joaopedroccruz.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>

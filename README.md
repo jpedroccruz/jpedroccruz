@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF0000,100:000000:FF0000:000000&text=Hi%20there!%20I'm%20João%20Pedro%20👋🏻&fontAlignY=36&reversal=false&fontSize=50&fontColor=FFFFFF&descAlign=60" alt="Header" />
 
-## <img src="https://readme-typing-svg.herokuapp.com/demo/?font=JetBrains+Mono&weight=800&size=30&duration=2500&color=F70000B8&lines=Some+info+about+me" alt="Typing SVG" />
+## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&repeat=falsepause=1000&color=F70000B8&width=435&lines=Some+info+about+me" alt="Typing SVG" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com/demo/?font=JetBrains+Mono&weight=800&size=30&duration=2500&color=FFFFFFB8&center=true&lines=Be+welcome+to+my+GitHub+profile!;I+study+Information+Systems+at+IFES+-+ES;I+enjoy+the+Web+Dev+area" alt="Typing SVG" />
+<div align=center>
+  <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&duration=2500&pause=0&color=F70000B8&width=435&lines=Be+welcome+to+my+GitHub+profile!;I+study+Information+Systems+at+IFES;I+enjoy+the+Web+Dev+area" alt="Typing SVG" /></a>
+</div>
 
 * 🚀 I'm focusing on improving my skills on Web Development
 * 🧑🏻‍💻 I'm currently studying Web APIs with Fastify
@@ -30,7 +32,7 @@
   <img alt="ReactJs" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com/demo/?font=JetBrains+Mono&weight=800&size=30&duration=2500&color=F70000B8&lines=Socials" alt="Typing SVG" />
+## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1000&color=F70000B8&width=435&lines=Socials" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://www.linkedin.com/in/jpedroccruz/" target="_blank"><img  align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

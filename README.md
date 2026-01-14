@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF0000,100:000000:FF0000:000000&text=Hi%20there!%20I'm%20João%20Pedro%20👋🏻&fontAlignY=71&reversal=false&fontSize=50&fontColor=FFFFFF&descAlign=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF0000,100:000000:FF0000:000000&text=Hi%20there!%20I'm%20João%20Pedro%20👋🏻&fontAlignY=36&reversal=false&fontSize=50&fontColor=FFFFFF&descAlign=60" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=21&pause=1000&color=9745F5&width=435&lines=Turning+ideas+into+code+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%95" alt="Typing SVG" />
 

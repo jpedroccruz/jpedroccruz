@@ -32,7 +32,7 @@
   <img alt="ReactJs" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
 </div>
 
-## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1000&color=F70000B8&width=435&lines=Socials" alt="Typing SVG" /></a>
+## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&repeat=false&pause=1000&color=F70000B8&width=435&lines=Socials" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://www.linkedin.com/in/jpedroccruz/" target="_blank"><img  align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

@@ -39,7 +39,7 @@
   •
   <a href="https://open.spotify.com/user/hol5mqsslm07923fyn58qtdgr?si=e47d8ff946fe4270" target="_blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
   •
-  <a href="https://mailto:joaopedroccruz.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:joaopedroccruz.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF0000,100:000000:FF0000:000000&text=Building%20systems,%20not%20just%20features.&fontAlignY=71&reversal=false&fontSize=50&fontColor=FFFFFF&descAlign=60&section=footer" alt="Footer" />

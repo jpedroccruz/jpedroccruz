@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF0000,100:000000:FF0000:000000&text=Hi%20there!%20I'm%20João%20Pedro%20👋🏻&fontAlignY=36&reversal=false&fontSize=50&fontColor=FFFFFF&descAlign=60" alt="Header" />
 
-## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&repeat=falsepause=1000&color=F70000B8&width=435&lines=Some+info+about+me" alt="Typing SVG" /></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&vCenter=true&weight=800&size=30&duration=2500&repeat=false&pause=1000&color=F70000B8&width=435&lines=Some+info+about+me" alt="Typing SVG" />
 
 <div align=center>
-  <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&duration=2500&pause=0&color=F70000B8&width=435&lines=Be+welcome+to+my+GitHub+profile!;I+study+Information+Systems+at+IFES;I+enjoy+the+Web+Dev+area" alt="Typing SVG" /></a>
+  <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&duration=2500&pause=0&color=FFFFFF&width=435&lines=Be+welcome+to+my+GitHub+profile!;I+study+Information+Systems+at+IFES;I+enjoy+the+Web+Dev+area" alt="Typing SVG" /></a>
 </div>
 
 * 🚀 I'm focusing on improving my skills on Web Development
@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroccruz&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
-<br>
+## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&vCenter=true&weight=800&size=30&duration=2500&repeat=false&pause=1000&color=F70000B8&width=435&lines=My+stack" alt="Typing SVG" /></a>
 
 <div align=center>
   <img alt="JavaScript" "width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -32,7 +32,7 @@
   <img alt="ReactJs" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
 </div>
 
-## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&repeat=false&pause=1000&color=F70000B8&width=435&lines=Socials" alt="Typing SVG" /></a>
+## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&vCenter=true&weight=800&size=30&duration=2500&repeat=false&pause=1000&color=F70000B8&width=435&lines=Socials" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://www.linkedin.com/in/jpedroccruz/" target="_blank"><img  align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

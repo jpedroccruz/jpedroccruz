@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0000,100:000000:FF0000:000000&text=Hi%20there!%20I'm%20João%20Pedro%20👋🏻&fontAlignY=40&reversal=false&fontSize=50&descAlign=59" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0000,100:000000:FF0000:000000&text=Hi%20there!%20I'm%20João%20Pedro%20👋🏻&fontAlignY=40&reversal=false&fontSize=50&fontColor=FFFFFF&descAlign=59" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=21&pause=1000&color=9745F5&width=435&lines=Turning+ideas+into+code+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%95" alt="Typing SVG" />
 
@@ -38,4 +38,4 @@
   <a href="https://mailto:joaopedroccruz.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0000,100:000000:FF0000:000000&text=Building%20systems,%20not%20just%20features.&fontAlignY=62&reversal=false&fontSize=50&descAlign=59&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0000,100:000000:FF0000:000000&text=Building%20systems,%20not%20just%20features.&fontAlignY=62&reversal=false&fontSize=50&fontColor=FFFFFF&descAlign=59&section=footer" alt="Footer" />

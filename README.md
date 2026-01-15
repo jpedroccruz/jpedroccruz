@@ -13,8 +13,8 @@
 <br>
 
 <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedroccruz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroccruz&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-sigma-eight-95.vercel.app/api?username=jpedroccruz&show_icons=true&include_all_commits=true&count_private=true&theme=radical&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-eight-95.vercel.app/api/top-langs/?username=jpedroccruz&layout=compact&theme=radical&title_color=ff073a&text_color=ff073a&bg_color=000000&hide_border=true&icon_color=ff073a"/>
 </div>
 
 ## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&vCenter=true&weight=800&size=30&duration=2500&repeat=false&pause=1000&color=F70000B8&width=435&lines=My+stack" alt="Typing SVG" /></a>

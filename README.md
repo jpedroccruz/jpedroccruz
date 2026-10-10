@@ -7,8 +7,8 @@
 </div>
 
 * 🚀 I'm focusing on improving my skills on Web Development
-* 🧑🏻‍💻 I'm currently studying Web APIs with Fastify
-* 🎮 When I’m not coding, I enjoy playing guitar, playing games and studying about Linux world
+* 🧑🏻‍💻 I'm currently creating my web portifolio, making a linux rice and participating in a project at IFES
+* 🎮 When I’m not developing, I enjoy playing guitar, playing games and studying about Linux world
 
 <br>
 

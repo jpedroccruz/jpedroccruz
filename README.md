@@ -14,7 +14,7 @@
 
 <div align=center>
   <img height="180em" src="https://github-readme-stats-zeta-liard-85.vercel.app/api?username=jpedroccruz&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-zeta-liard-85.vercel.app/api/top-langs/?username=jpedroccruz&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&icon_color=ffffff&hide=QML,GLSL,Visual%20Basic%206.0"/>
+  <img height="180em" src="https://github-readme-stats-zeta-liard-85.vercel.app/api/top-langs/?username=jpedroccruz&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&icon_color=ffffff&hide=QML,GLSL,CSS,HTML,Visual%20Basic%206.0"/>
 </div>
 
 ## <a href="https://github.com/jpedroccruz"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&vCenter=true&weight=800&size=30&duration=2500&repeat=false&pause=1000&color=FFFFFF&width=435&lines=My+stack" alt="Typing SVG" /></a>
